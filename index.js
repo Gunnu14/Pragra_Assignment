@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+js  is very easy
 <body>
 
 <h2>What Can JavaScript Do?</h2>
@@ -12,3 +13,4 @@
 
 </body>
 </html>
+beautiful code
