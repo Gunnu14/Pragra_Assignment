@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 js  is very easy
+js stands for java script
 <body>
 
 <h2>What Can JavaScript Do?</h2>
